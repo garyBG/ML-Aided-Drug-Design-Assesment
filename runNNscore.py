@@ -3,14 +3,14 @@ import subprocess
 # import MvdWrapper
 import sys
 
-cd = 'D:\\Desktop\\UWB\\BIOFINAL'
+cd = '\UWB\\BIOFINAL'
 vina = '"\\Program Files (x86)\\The Scripps Research Institute\\Vina\\vina.exe" ' \
           r'--config config.txt --log log.txt --out output'
 nnScore = 'python NNScore2.py '
 nnVina = ' -vina_executable C:\\Vina\\vina.exe'
 
 i = 15
-configPath = 'C:\\Users\\garyl\\Desktop\\UWB\\SPR\\BIO\\bioP1\\formatted\\config.txt'
+configPath = 'formatted\\config.txt'
 
 while i < 20:
 
