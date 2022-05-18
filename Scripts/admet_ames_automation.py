@@ -20,7 +20,7 @@ select_AMES.click()
 
 #inputting All Ligands for AMES Evaluation
 input_sdf_files = driver.find_element_by_xpath('///*[@id="AMES"]/a').clear()
-input_sdf_files.send_keys('/Users/seleenjaber/Desktop/Bioinformatics Project /All Protein-Ligand Files/all_ligands.sdf')
+input_sdf_files.send_keys('/All Protein-Ligand Files/all_ligands.sdf')
 
 #change input type
 select_upload_files = driver.find_element_by_xpath('//*[@id="way"]')
