@@ -46,7 +46,9 @@ affinity as given by PLANTS.
 ## Acknowledgments
 
 [E-LEA3D Drug Design Server](https://www.hsls.pitt.edu/obrc/index.php?page=URL1275672987)
+
 [NNScore 2.0](https://pubs.acs.org/doi/10.1021/ci2003889)
+
 [PLANTS](https://link.springer.com/chapter/10.1007/11839088_22)
 
 ## Affiliations:
