@@ -1,10 +1,15 @@
-# An Extensive Assessment of the e-LEA3D Web Server
+# Machine-Learning Aided Drug Design: An Extensive Assessment of the e-LEA3D Web Server
 
 ## Authors:
-Gary Guiragossian 1#
-Seleen Jaber 1#
-Esthela Cruz Mendez 1#
-Dylan Thibault 1#
+
+Gary Guiragossian
+
+Seleen Jaber 
+
+Esthela Cruz Mendez 
+
+Dylan Thibault
+
 Manasa Yadavalli 
 
 ## Description
