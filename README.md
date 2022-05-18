@@ -40,8 +40,19 @@ affinity as given by PLANTS.
 
 ## Python Scripts
 
+admet_HIA: Automates molecule entry to admet eval. site with selenium. Selects HIA evaluation.
 
+admet_ames_automation: Automates molecule entry to admet eval. site with selenium. Selects AMES evaluation.
 
+clean_de_novo_automation: Automates molecule entry to e-LEA3D servers with selenium.
+
+generateConfigs: Prepares molecules for AutoDOCK VINA, NNSCORE, and PLANTS by standardizing config files.
+
+pre_req_selenium: Installs selenium.
+
+runNNscore: Runs NNScore for all ligands through console calls.
+
+runPlants: Runs PLANTS for all ligands through console calls.
 
 ## Acknowledgments
 
@@ -50,6 +61,8 @@ affinity as given by PLANTS.
 [NNScore 2.0](https://pubs.acs.org/doi/10.1021/ci2003889)
 
 [PLANTS](https://link.springer.com/chapter/10.1007/11839088_22)
+
+[ADMET](https://admet.scbdd.com/)
 
 ## Affiliations:
 1 University of Washington, Bothell, School of Science, Technology, Engineering, and
